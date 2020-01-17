@@ -1,4 +1,4 @@
-# MEDIUMSCRAPPER BY CYOTER
+# MEDIUMSCRAPPER BY SOUFIANE RADOUNI
 
 A simple Flask wrapper that scrapes a Medium article and returns JSON.
 
