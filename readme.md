@@ -5,16 +5,7 @@ A simple Flask wrapper that scrapes a Medium article and returns JSON.
 Requires Python 3.6+ 
 
 ### Installation
-    git clone 
-    cd MEDIUMSCRAPPER
-    #### Create a virtualenv (Optional but reccomended)
-    $ python3 -m venv myvirtualenv
-    #### Activate the virtualenv
-    $ source myvirtualenv/bin/activate
-    #### Install all dependencies
-    pip install -r requirements.txt
-    ####Then set debbug mode
-    export FLASK_ENV=development
+   
     
     
     
